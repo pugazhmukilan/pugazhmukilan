@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pugazhmukilan
 - 👀 I’m interested in in programming and creating new creative stuffs
-- 🌱 I’m currently learning c programe and intermediate in python programming
+- 🌱 I’m currently learning JAVA and i know c ,c++ and python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through email: pugazhmukilanoffical2004@gmail.com
 
