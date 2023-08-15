@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pugazhmukilan
 - 👀 I’m interested in in programming and creating new creative stuffs
-- 🌱 I’m currently learning JAVA and i know c ,c++ and python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning JAVA and i know c ,c++ ,python,flutter,UI/UX designing and front end development
+- 💞️ I’m looking to collaborate on app developments  and other programming projects...
 - 📫 How to reach me through email: pugazhmukilanoffical2004@gmail.com
 
 <!---
