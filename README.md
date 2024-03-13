@@ -30,7 +30,7 @@ I am constantly learning and exploring new technologies and techniques to enhanc
 
 
 
-<h2 align="left">Hi 👋! My name is Pugazh Mukilan and I'm a Developer and Designer from India</h2>
+<h2 align="left">Hi 👋! My name is Pugazh Mukilan and I'm a Developer and Designer </h2>
 
 ###
 
@@ -79,6 +79,6 @@ I am constantly learning and exploring new technologies and techniques to enhanc
 
 ###
 
-<img src="https://raw.githubusercontent.com/pugazhmukilan/pugazhmukilan/output/snake.svg" alt="Snake animation" />
+
 
 ###
